@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://riethahda.ellipsis.voyage/sitemap.xml
